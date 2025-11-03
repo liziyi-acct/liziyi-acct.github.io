@@ -10,11 +10,13 @@
 &emsp;&emsp; zyi.li@outlook.com
 
 #### Education
-&emsp;&emsp; Ph.D., Accounting, Fudan University, 2023 - 2027 (expected).
+&emsp;&emsp; Ph.D., Accounting, Fudan University, Shanghai, 2023 - 2027 (expected).
 
-&emsp;&emsp; MPhil, Accounting, Fudan University, 2021 - 2023.
+&emsp;&emsp; Visiting Scholar, Accounting, Yale University, New Haven, 2025 - 2026.
 
-&emsp;&emsp; B.A., Finance, University of International Business and Economics, 2017 - 2021.
+&emsp;&emsp; MPhil, Accounting, Fudan University, Shanghai, 2021 - 2023.
+
+&emsp;&emsp; B.A., Finance, University of International Business and Economics, Beijing, 2017 - 2021.
 
 #### Research Interests
 &emsp;&emsp; *Family Firm, Information Disclosure, Bond Pricing*
