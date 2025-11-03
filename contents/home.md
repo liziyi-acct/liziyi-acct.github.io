@@ -12,7 +12,7 @@
 #### Education
 &emsp;&emsp; Ph.D., Accounting, Fudan University, Shanghai, 2023 - 2027 (expected).
 
-&emsp;&emsp; Visiting Scholar, Accounting, Yale University, New Haven, 2025 - 2026.
+&emsp;&emsp; Visiting Ph.D., Accounting, Yale University, New Haven, 2025 - 2026.
 
 &emsp;&emsp; &emsp;&emsp; Supervisor: Frank Zhang [[Website]](https://som.yale.edu/faculty-research/faculty-directory/x-frank-zhang)
 
