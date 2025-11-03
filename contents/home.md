@@ -21,4 +21,4 @@
 &emsp;&emsp; B.A., Finance, University of International Business and Economics, Beijing, 2017 - 2021.
 
 #### Research Interests
-&emsp;&emsp; *Family Firm, Information Disclosure, Bond Pricing*
+&emsp;&emsp; *Information Disclosure, Municipal Bond, Debt Contracting, Family Firm*
