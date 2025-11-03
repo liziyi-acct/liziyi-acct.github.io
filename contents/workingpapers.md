@@ -2,7 +2,7 @@
 
 &ensp;&ensp;&ensp;*with Rui Ruan, Yuchen Sun and Yue Tang*
 
-&ensp;&ensp;&ensp;1st round Revise at the *Journal of Corporate Finance*
+&ensp;&ensp;&ensp;Revise at the *Journal of Corporate Finance*
 
 [2] **Economic Policy Uncertainty, Incentive Effectiveness, and Incentive Intensity: Theory and Evidence**
 
